@@ -1,23 +1,26 @@
 # Olá! Sou Anderson Moegel 👋✨
 
 ## Sobre Mim
-Sou um apaixonado por tecnologia e inovação, com formação em Análise e Desenvolvimento de Sistemas. Minha jornada profissional é marcada pela busca constante de soluções criativas e eficientes para os desafios do mundo digital. 
+Sou um entusiasta da tecnologia, formado em Análise e Desenvolvimento de Sistemas, com experiência em Governança de TI, automação de processos e análise de dados. Minha jornada tem sido impulsionada pela busca de soluções eficientes e inovadoras, otimizando processos e apoiando decisões estratégicas baseadas em dados.
 
-Atualmente, estou focado em **programação** 💻 e **segurança da informação** 🔒, acreditando que essas áreas são fundamentais para transformar dados em insights valiosos e proteger informações críticas.
+Atualmente, estou aprimorando meus conhecimentos em Inteligência Artificial e Segurança Cibernética, pois acredito que essas áreas desempenham um papel crucial na transformação digital das empresas e na proteção contra ameaças emergentes.
 
-## Minhas Experiências
-- **Criação e Monitoramento de Indicadores (KPIs):** 📊 Desenvolvendo KPIs precisos para diversas áreas, garantindo que as decisões sejam baseadas em dados concretos.
-- **Automação de Processos:** ⚙️ Identificando oportunidades para aumentar a eficiência e reduzir erros manuais através de soluções automatizadas.
-- **Suporte a Diferentes Departamentos:** 🤝 Fornecendo insights baseados em dados e criando relatórios personalizados que ajudam na tomada de decisões.
-- **Apoio à Diretoria:** 📈 Assistindo na interpretação de dados e definição de metas e estratégias.
+### 🔹 Minhas Especialidades:
+- ✅ **Criação e Monitoramento de Indicadores (KPIs):** Desenvolvimento de métricas precisas para análise e tomada de decisões.
+- ✅ **Automação de Processos:** Implementação de soluções para reduzir tarefas manuais e aumentar a eficiência operacional.
+- ✅ **Análise de Dados e Relatórios Gerenciais:** Geração de insights estratégicos por meio de dashboards e relatórios personalizados.
+- ✅ **Governança de TI:** Gestão de ativos, segurança e conformidade em ambientes corporativos.
 
-## Ferramentas que Utilizo
-- **Blue Prism:** 🤖 Para automação de processos.
-- **Power BI:** 📊 Para criação de dashboards e análise de insights.
-- **Automate:** ⚡ Para automatização de tarefas no parque fabril.
-- **QIS (Quality Index System):** ✅ Para monitoramento de qualidade.
-- **SQL Oracle:** 🗄️ Para gerenciamento e manipulação de bancos de dados.
-- **Linguagens:** Python 🐍, HTML 🌐, CSS 🎨, JavaScript 📜 e linguagens focadas em segurança da informação 🔐.
+### 🔹 Ferramentas e Tecnologias:
+- 💻 **Análise & Automação:** Power BI, Blue Prism, Automate, QIS (Quality Index System)
+- 📊 **Banco de Dados:** SQL Oracle
+- 🖥️ **Desenvolvimento:** VS Code, PowerShell, Kali Linux
+- 🚀 **Linguagens de Programação:** Python, JavaScript, HTML5, CSS, PowerShell, Visual Basic
+- 🛠️ **Gestão de Ativos e Suporte:** KACE (Gerenciamento de ativos e distribuição de software)
+- 📌 **Gestão de Projetos e Chamados:** JIRA (Gerenciamento ágil de projetos), Service Desk (Atendimento e suporte técnico), Trello (Organização de tarefas e colaboração)
+- 🏢 **ERP e Processos Empresariais:** SAP ECC (Gestão financeira, logística e operações empresariais)
+- ☁️ **Produtividade e Colaboração:** Office 365 (Outlook, Excel, Word, PowerPoint, Teams)
+- 🔐 **Segurança e Administração de Redes:** Active Directory (Gerenciamento de usuários, autenticação e controle de acessos)
 
-## Conexão
-Sou movido pela curiosidade e pelo desejo de aprender continuamente. Estou sempre em busca de novos desafios e oportunidades para aplicar minhas habilidades e contribuir para o sucesso das organizações. Vamos nos conectar e explorar como podemos colaborar! 🤗💬
+Sou movido pela curiosidade e aprendizado contínuo, sempre buscando desafios que me permitam crescer e agregar valor às organizações. Vamos nos conectar e trocar experiências! 🚀
+
