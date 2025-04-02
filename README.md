@@ -1,26 +1,25 @@
-# Olá! Sou Anderson Moegel 👋✨
+# Hello! I'm Anderson Moegel 👋✨  
 
-## Sobre Mim
-Sou um entusiasta da tecnologia, formado em Análise e Desenvolvimento de Sistemas, com experiência em Governança de TI, automação de processos e análise de dados. Minha jornada tem sido impulsionada pela busca de soluções eficientes e inovadoras, otimizando processos e apoiando decisões estratégicas baseadas em dados.
+## About Me  
+I'm a technology enthusiast with a degree in Systems Analysis and Development, experienced in IT Governance, process automation, and data analysis. My journey has been driven by the pursuit of efficient and innovative solutions, optimizing processes, and supporting strategic decision-making based on data.  
 
-Atualmente, estou aprimorando meus conhecimentos em Inteligência Artificial e Segurança Cibernética, pois acredito que essas áreas desempenham um papel crucial na transformação digital das empresas e na proteção contra ameaças emergentes.
+Currently, I am enhancing my knowledge in Artificial Intelligence and Cybersecurity, as I believe these fields play a crucial role in the digital transformation of businesses and in protecting against emerging threats.  
 
-### 🔹 Minhas Especialidades:
-- ✅ **Criação e Monitoramento de Indicadores (KPIs):** Desenvolvimento de métricas precisas para análise e tomada de decisões.
-- ✅ **Automação de Processos:** Implementação de soluções para reduzir tarefas manuais e aumentar a eficiência operacional.
-- ✅ **Análise de Dados e Relatórios Gerenciais:** Geração de insights estratégicos por meio de dashboards e relatórios personalizados.
-- ✅ **Governança de TI:** Gestão de ativos, segurança e conformidade em ambientes corporativos.
+### 🔹 My Specialties:  
+- ✅ **KPI Creation and Monitoring:** Developing accurate metrics for analysis and decision-making.  
+- ✅ **Process Automation:** Implementing solutions to reduce manual tasks and increase operational efficiency.  
+- ✅ **Data Analysis and Management Reports:** Generating strategic insights through dashboards and customized reports.  
+- ✅ **IT Governance:** Managing assets, security, and compliance in corporate environments.  
 
-### 🔹 Ferramentas e Tecnologias:
-- 💻 **Análise & Automação:** Power BI, Blue Prism, Automate, QIS (Quality Index System)
-- 📊 **Banco de Dados:** SQL Oracle
-- 🖥️ **Desenvolvimento:** VS Code, PowerShell, Kali Linux
-- 🚀 **Linguagens de Programação:** Python, JavaScript, HTML5, CSS, PowerShell, Visual Basic
-- 🛠️ **Gestão de Ativos e Suporte:** KACE (Gerenciamento de ativos e distribuição de software)
-- 📌 **Gestão de Projetos e Chamados:** JIRA (Gerenciamento ágil de projetos), Service Desk (Atendimento e suporte técnico), Trello (Organização de tarefas e colaboração)
-- 🏢 **ERP e Processos Empresariais:** SAP ECC (Gestão financeira, logística e operações empresariais)
-- ☁️ **Produtividade e Colaboração:** Office 365 (Outlook, Excel, Word, PowerPoint, Teams)
-- 🔐 **Segurança e Administração de Redes:** Active Directory (Gerenciamento de usuários, autenticação e controle de acessos)
+### 🔹 Tools and Technologies:  
+- 💻 **Analysis & Automation:** Power BI, Blue Prism, Automate, QIS (Quality Index System)  
+- 📊 **Databases:** SQL Oracle  
+- 🖥️ **Development:** VS Code, PowerShell, Kali Linux  
+- 🚀 **Programming Languages:** Python, JavaScript, HTML5, CSS, PowerShell, Visual Basic  
+- 🛠️ **Asset Management & Support:** KACE (Asset management and software distribution)  
+- 📌 **Project & Ticket Management:** JIRA (Agile project management), Service Desk (Support and technical assistance), Trello (Task organization and collaboration)  
+- 🏢 **ERP & Business Processes:** SAP ECC (Financial management, logistics, and business operations)  
+- ☁️ **Productivity & Collaboration:** Office 365 (Outlook, Excel, Word, PowerPoint, Teams)  
+- 🔐 **Security & Network Administration:** Active Directory (User management, authentication, and access control)  
 
-Sou movido pela curiosidade e aprendizado contínuo, sempre buscando desafios que me permitam crescer e agregar valor às organizações. Vamos nos conectar e trocar experiências! 🚀
-
+I am driven by curiosity and continuous learning, always looking for challenges that allow me to grow and add value to organizations. Let's connect and share experiences! 🚀
