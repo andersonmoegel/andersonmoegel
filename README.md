@@ -1,25 +1,68 @@
-# Hello! I'm Anderson Moegel 👋✨  
+<h1 align="center">Olá! Eu sou o Anderson Moegel 👋</h1>
+<h3 align="center">Desenvolvedor de Software • Automação • Governança de TI • Python Lover 🐍</h3>
 
-## About Me  
-I'm a technology enthusiast with a degree in Systems Analysis and Development, experienced in IT Governance, process automation, and data analysis. My journey has been driven by the pursuit of efficient and innovative solutions, optimizing processes, and supporting strategic decision-making based on data.  
+---
 
-Currently, I am enhancing my knowledge in Artificial Intelligence and Cybersecurity, as I believe these fields play a crucial role in the digital transformation of businesses and in protecting against emerging threats.  
+<p align="center">
+  <strong>🔧 Habilidades Técnicas:</strong><br>
+  Python • PowerShell • VB.NET • C# • HTML • CSS • JavaScript • SQL • Bash • Infraestrutura • SAP • Power BI • KACE • ServiceNow
+</p>
 
-### 🔹 My Specialties:  
-- ✅ **KPI Creation and Monitoring:** Developing accurate metrics for analysis and decision-making.  
-- ✅ **Process Automation:** Implementing solutions to reduce manual tasks and increase operational efficiency.  
-- ✅ **Data Analysis and Management Reports:** Generating strategic insights through dashboards and customized reports.  
-- ✅ **IT Governance:** Managing assets, security, and compliance in corporate environments.  
+<p align="center">
+  <strong>🚀 Áreas de Atuação:</strong><br>
+  Automação de processos internos, gestão de ativos, análise de dados, suporte técnico, segurança da informação e desenvolvimento de ferramentas para ambiente corporativo.
+</p>
 
-### 🔹 Tools and Technologies:  
-- 💻 **Analysis & Automation:** Power BI, Blue Prism, Automate, QIS (Quality Index System)  
-- 📊 **Databases:** SQL Oracle  
-- 🖥️ **Development:** VS Code, PowerShell, Kali Linux  
-- 🚀 **Programming Languages:** Python, JavaScript, HTML5, CSS, PowerShell, Visual Basic  
-- 🛠️ **Asset Management & Support:** KACE (Asset management and software distribution)  
-- 📌 **Project & Ticket Management:** JIRA (Agile project management), Service Desk (Support and technical assistance), Trello (Task organization and collaboration)  
-- 🏢 **ERP & Business Processes:** SAP ECC (Financial management, logistics, and business operations)  
-- ☁️ **Productivity & Collaboration:** Office 365 (Outlook, Excel, Word, PowerPoint, Teams)  
-- 🔐 **Security & Network Administration:** Active Directory (User management, authentication, and access control)  
+---
 
-I am driven by curiosity and continuous learning, always looking for challenges that allow me to grow and add value to organizations. Let's connect and share experiences! 🚀
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andersonmoegel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmoegel&layout=compact&langs_count=8&theme=tokyonight" height="160"/>
+</div>
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" height="30" alt="PowerShell" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/VB.NET-blue?style=flat&logo=dotnet&logoColor=white" height="30" alt="VB.NET" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
+</p>
+
+---
+
+### 📫 Conecte-se comigo
+
+<p align="center">
+  <a href="https://www.instagram.com/andersonmoegel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+  <a href="https://www.linkedin.com/in/andersonmoegel" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  💡 <em>"Tecnologia com propósito: resolver, automatizar e melhorar a vida das pessoas."</em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=andersonmoegel&label=Profile%20views&color=0e75b6&style=flat" alt="andersonmoegel" />
+</p>
