@@ -1,70 +1,61 @@
 # 👨‍💻 Anderson Moegel
+### **Software Developer | Process Automation & Data Analysis**
 
-🚀 **Desenvolvedor de Software focado em automação, análise de dados e ferramentas corporativas**
-
-Sou desenvolvedor com forte interesse em **automação de processos, análise de dados e desenvolvimento de ferramentas internas para empresas**.
-Trabalho principalmente com **Python**, criando aplicações para **extração de dados, automação de tarefas, análise de arquivos e integração de sistemas**.
-
-Também utilizo **JavaScript, HTML e CSS** para desenvolvimento de interfaces web e **PowerShell** para automação e administração de ambientes Windows.
-
-Tenho interesse em:
-
-* Automação de processos corporativos
-* Desenvolvimento de aplicações internas
-* Extração e análise de dados
-* Ferramentas para aumento de produtividade em TI
+Desenvolvedor focado em transformar tarefas manuais em fluxos de trabalho eficientes. Especialista em criar ferramentas que reduzem custos operacionais e aumentam a produtividade através de **Python** e **PowerShell**.
 
 ---
 
-# 🚀 Tecnologias que utilizo
+### 🛠️ Tech Stack & Ferramentas
 
-![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,powershell)
+Como especialista em automação, organizo minhas ferramentas pela finalidade técnica:
 
----
-
-# 📊 Estatísticas do GitHub
-
-
-# 🔥 Sequência de commits
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=SEU_USUARIO\&theme=tokyonight)
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens Core** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Automação & OS** | ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) |
+| **Frontend/UI** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Data & Tools** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
 
-# 📈 Linguagens mais usadas
+### 📊 GitHub Analytics
 
-## 📈 Linguagens mais usadas
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonmoegel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmoegel&layout=compact&langs_count=7&theme=tokyonight" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andersonmoegel)
-
----
-
-# 🧠 Áreas de interesse
-
-* Automação com **Python**
-* Scripts corporativos com **PowerShell**
-* Desenvolvimento de ferramentas internas
-* Interfaces web com **HTML, CSS e JavaScript**
-* Manipulação de dados e arquivos (Excel, PDF, APIs)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=andersonmoegel&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
-# 📬 Contato
+### 🚀 Áreas de Atuação & Expertise
 
-💼 **LinkedIn**
-[https://linkedin.com/in/andersonmoegel](https://linkedin.com/in/andersonmoegel)
-
-📱 **WhatsApp**
-(47) 99225-4157
-
----
-
-# 👀 Visitantes do perfil
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SEU_USUARIO)
+* **Automação Corporativa:** Criação de scripts para migração de dados, integração de APIs e relatórios automáticos.
+* **Análise de Dados:** Limpeza e tratamento de grandes volumes de dados com Python (Pandas/Openpyxl).
+* **Sistemas Internos:** Desenvolvimento de ferramentas de suporte e interfaces para otimização de fluxos de TI.
+* **Infraestrutura:** Automação de rotinas e administração de ambientes Windows via PowerShell.
 
 ---
 
-# ⭐ Projetos em destaque
+### ⭐ Projetos em Destaque
 
+* **[Nome do Projeto]**: Breve descrição da automação e qual problema ela resolveu.
+* **[Nome do Projeto]**: Como essa ferramenta ajudou na análise de dados ou produtividade.
 
+---
+
+### 📬 Vamos conversar?
+
+<p align="left">
+<a href="https://linkedin.com/in/andersonmoegel" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Anderson Moegel" /></a>
+<a href="https://wa.me/5547992254157" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contato WhatsApp" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=andersonmoegel.profile" alt="Visitor Badge" />
+</p>
