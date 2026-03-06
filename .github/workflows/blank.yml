@@ -1,0 +1,17 @@
+name: Update Recent Repos
+on:
+  schedule:
+    - cron: '0 * * * *' # Atualiza a cada hora
+  workflow_dispatch: # Permite rodar manualmente
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: kavandev/github-readme-recent-repositories@main
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: andersonmoegel
+          count: 3 # Quantos projetos você quer exibir
+          slug: andersonmoegel
