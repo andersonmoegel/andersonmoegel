@@ -35,7 +35,7 @@ Tenho interesse em:
 
 ## 📈 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmoegel&layout=compact&theme=tokyonight&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andersonmoegel)
 
 ---
 
