@@ -38,14 +38,6 @@ Como especialista em automação, organizo minhas ferramentas pela finalidade t�
 * **Sistemas Internos:** Desenvolvimento de ferramentas de suporte e interfaces para otimização de fluxos de TI.
 * **Infraestrutura:** Automação de rotinas e administração de ambientes Windows via PowerShell.
 
----
-
-### ⭐ Projetos em Destaque
-
-* **[Nome do Projeto]**: Breve descrição da automação e qual problema ela resolveu.
-* **[Nome do Projeto]**: Como essa ferramenta ajudou na análise de dados ou produtividade.
-
----
 
 ### 📬 Vamos conversar?
 
