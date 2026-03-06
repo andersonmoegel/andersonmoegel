@@ -24,11 +24,6 @@ Tenho interesse em:
 
 # 📊 Estatísticas do GitHub
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andersonmoegel&show_icons=true&theme=tokyonight)
-
----
 
 # 🔥 Sequência de commits
 
@@ -40,7 +35,7 @@ Tenho interesse em:
 
 ## 📈 Linguagens mais usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmoegel&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmoegel&layout=compact&theme=tokyonight&cache_seconds=86400)
 
 ---
 
