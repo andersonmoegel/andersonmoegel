@@ -68,11 +68,4 @@ Tenho interesse em:
 
 # ⭐ Projetos em destaque
 
-Aqui você pode fixar no perfil:
 
-* automações em Python
-* ferramentas de análise de dados
-* scripts corporativos
-* projetos web
-* **snake animation dos commits**
-* **layout muito mais bonito**.
