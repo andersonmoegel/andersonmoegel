@@ -26,7 +26,7 @@ Tenho interesse em:
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andersonmoegel&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andersonmoegel&show_icons=true&theme=tokyonight)
 
 ---
 
