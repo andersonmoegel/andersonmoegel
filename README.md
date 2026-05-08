@@ -88,9 +88,9 @@ Meu trabalho é transformar tarefas repetitivas em fluxos robustos, conectando s
 
 ## 📌 Projeto em Destaque
 
-- **Assistente de IA Telecom (Python + Node.js)**  
+- **[Assistente de IA Telecom (Python + Node.js)](https://github.com/andersonmoegel/Assistente_Telecom_IA)**  
   Aplicação web com interface moderna + API Node.js para chat com modelos Gemini, enriquecimento por upload de arquivos e scraping de páginas. O mesmo é usado para tratamento de dados relacionado a Telecomunicações.
-
+  
 ---
 
 ## 📊 GitHub Analytics
